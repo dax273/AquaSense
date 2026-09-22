@@ -114,7 +114,7 @@ This approach also allows an existing or refurbished Android device to potential
 
 ---
 
-# 🔬 Sensors
+# Sensors
 
 The sensor configuration changes between project versions.
 
@@ -125,7 +125,7 @@ The sensor configuration changes between project versions.
 
 ---
 
-# 🛠️ Development Approach
+# Development Approach
 
 AquaSense follows an iterative development process:
 
