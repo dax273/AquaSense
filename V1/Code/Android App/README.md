@@ -1,4 +1,4 @@
-# Android IoT Dashboard
+# Android IoT Dashboard App
 
 ## Project Overview
 
