@@ -9,7 +9,7 @@ AquaSense is a complete Android application built in Kotlin that displays IoT se
 ### 1. Welcome Screen (Splash Screen)
 - Displays the app name "AquaSense" centered on screen
 - Shows a placeholder image (can be replaced with custom logo)
-- Automatically navigates to Dashboard after 2.5 seconds
+- Automatically navigates to Dashboard after 3.0 seconds
 - Modern UI styling with cream background and custom colors
 
 ### 2. Dashboard Screen
