@@ -1,4 +1,4 @@
-# v1.0 Circuit Diagram
+# v1.0 - Circuit Diagram
 
 This folder contains the circuit and wiring information for the first working AquaSense prototype.
 
