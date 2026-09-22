@@ -1,6 +1,6 @@
 # AquaSense V1 Circuit
 
-This folder contains the circuit and wiring information for the first working AquaSense prototype.
+This folder contains the circuit and wiring information of the first working AquaSense prototype.
 
 ## Components
 
