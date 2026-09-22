@@ -72,7 +72,7 @@ The first working AquaSense prototype was built around an Arduino-based system.
 
 V1 served as the foundation for the project's later development.
 
-**Release:** [`v1.0.0`](../../releases/tag/v1.0.0)
+**Release:** [`v1.0`](https://github.com/dax273/AquaSense/releases/tag/v1.0)
 
 ---
 
