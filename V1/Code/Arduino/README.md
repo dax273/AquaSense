@@ -1,4 +1,4 @@
-# AquaSense V1 Arduino Code
+# v1.0 - Arduino Code
 
 This folder contains the Arduino source code used in the first AquaSense prototype.
 
