@@ -70,7 +70,7 @@ AquaSense is a complete Android application built in Kotlin that displays IoT se
 **Important:** Update the `CHANNEL_ID` in `DashboardActivity.kt` with your actual ThingSpeak channel ID:
 
 ```kotlin
-private val CHANNEL_ID = "2165243" // Replace with your channel ID
+private val CHANNEL_ID = "xxxxxxx" // Replace with your channel ID
 ```
 
 ### Build Dependencies (libs.versions.toml)
