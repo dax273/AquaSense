@@ -1,4 +1,4 @@
-# Photos
+# v1.0 - Photos
 
 This folder contains photographs documenting the AquaSense V1 prototype and its testing setup.
 
