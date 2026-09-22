@@ -1,4 +1,4 @@
-# AquaSense - Android IoT Dashboard
+# Android IoT Dashboard
 
 ## Project Overview
 
